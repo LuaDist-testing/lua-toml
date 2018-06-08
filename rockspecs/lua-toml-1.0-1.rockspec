@@ -1,8 +1,8 @@
 package = "lua-toml"
-version = "1.0-0"
+version = "1.0-1"
 source = {
 	url = "git://github.com/jonstoler/lua-toml.git",
-	tag = "v1.0",
+	tag = "v1.0.1",
 }
 description = {
 	summary = "toml decoder/encoder for Lua",
