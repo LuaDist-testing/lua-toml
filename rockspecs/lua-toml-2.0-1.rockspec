@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lua-toml"
-version = "2.0-0"
--- LuaDist source
+version = "2.0-1"
 source = {
-  tag = "2.0-0",
-  url = "git://github.com/LuaDist-testing/lua-toml.git"
+	url = "git://github.com/jonstoler/lua-toml.git",
+	tag = "v2.0.1",
 }
--- Original source
--- source = {
--- 	url = "git://github.com/jonstoler/lua-toml.git",
--- 	tag = "v2.0.0",
--- }
 description = {
 	summary = "toml decoder/encoder for Lua",
 	detailed = [[
