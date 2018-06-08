@@ -1,23 +1,23 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lua-toml"
-version = "1.0-1"
+version = "2.0-0"
 -- LuaDist source
 source = {
-  tag = "1.0-1",
+  tag = "2.0-0",
   url = "git://github.com/LuaDist-testing/lua-toml.git"
 }
 -- Original source
 -- source = {
 -- 	url = "git://github.com/jonstoler/lua-toml.git",
--- 	tag = "v1.0.1",
+-- 	tag = "v2.0.0",
 -- }
 description = {
 	summary = "toml decoder/encoder for Lua",
 	detailed = [[
 TOML 0.4.0 compliant Lua library with tests. Serializes TOML into a Lua table, and serlaizes Lua tables into TOML.]],
 	homepage = "https://github.com/jonstoler/lua-toml",
-	license = "The Happy License",
+	license = "MIT",
 }
 dependencies = {
 	"lua >= 5.1"
